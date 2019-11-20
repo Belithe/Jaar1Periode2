@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\CoolManMcGee\\.nuget\\packages\\": {},
+    "C:\\Users\\Belith\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TEMPProgrammeren2\\Programmeren2Week1\\Opdracht0.csproj",
+      "projectUniqueName": "E:\\School\\inHolland\\Jaar1Periode2\\Programmeren 2\\Programmeren2Week1\\Opdracht0.csproj",
       "projectName": "Opdracht0",
-      "projectPath": "D:\\TEMPProgrammeren2\\Programmeren2Week1\\Opdracht0.csproj",
-      "packagesPath": "C:\\Users\\CoolManMcGee\\.nuget\\packages\\",
-      "outputPath": "D:\\TEMPProgrammeren2\\Programmeren2Week1\\obj\\",
+      "projectPath": "E:\\School\\inHolland\\Jaar1Periode2\\Programmeren 2\\Programmeren2Week1\\Opdracht0.csproj",
+      "packagesPath": "C:\\Users\\Belith\\.nuget\\packages\\",
+      "outputPath": "E:\\School\\inHolland\\Jaar1Periode2\\Programmeren 2\\Programmeren2Week1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\CoolManMcGee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Belith\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -729,16 +729,23 @@
       "netcoreapp2.1": {
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

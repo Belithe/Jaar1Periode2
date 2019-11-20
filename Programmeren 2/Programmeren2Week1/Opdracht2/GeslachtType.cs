@@ -1,0 +1,4 @@
+﻿enum GeslachtType
+{
+    Man, Vrouw
+}
