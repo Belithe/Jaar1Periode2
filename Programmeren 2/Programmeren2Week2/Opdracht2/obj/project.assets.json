@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\School\\inHolland\\Jaar1Periode2\\Programmeren 2\\Programmeren2Week2\\Programmeren2Week2\\Programmeren2Week2\\Opdracht1.csproj",
-      "projectName": "Opdracht1",
-      "projectPath": "E:\\School\\inHolland\\Jaar1Periode2\\Programmeren 2\\Programmeren2Week2\\Programmeren2Week2\\Programmeren2Week2\\Opdracht1.csproj",
+      "projectUniqueName": "E:\\School\\inHolland\\Jaar1Periode2\\Programmeren 2\\Programmeren2Week2\\Opdracht2\\Opdracht2.csproj",
+      "projectName": "Opdracht2",
+      "projectPath": "E:\\School\\inHolland\\Jaar1Periode2\\Programmeren 2\\Programmeren2Week2\\Opdracht2\\Opdracht2.csproj",
       "packagesPath": "C:\\Users\\Belith\\.nuget\\packages\\",
-      "outputPath": "E:\\School\\inHolland\\Jaar1Periode2\\Programmeren 2\\Programmeren2Week2\\Programmeren2Week2\\Programmeren2Week2\\obj\\",
+      "outputPath": "E:\\School\\inHolland\\Jaar1Periode2\\Programmeren 2\\Programmeren2Week2\\Opdracht2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
