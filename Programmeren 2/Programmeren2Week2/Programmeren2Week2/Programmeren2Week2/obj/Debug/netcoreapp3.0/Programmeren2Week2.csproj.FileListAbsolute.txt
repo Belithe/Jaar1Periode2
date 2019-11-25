@@ -1,0 +1,11 @@
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week2\Programmeren2Week2\Programmeren2Week2\bin\Debug\netcoreapp3.0\Programmeren2Week2.exe
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week2\Programmeren2Week2\Programmeren2Week2\bin\Debug\netcoreapp3.0\Programmeren2Week2.deps.json
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week2\Programmeren2Week2\Programmeren2Week2\bin\Debug\netcoreapp3.0\Programmeren2Week2.runtimeconfig.json
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week2\Programmeren2Week2\Programmeren2Week2\bin\Debug\netcoreapp3.0\Programmeren2Week2.runtimeconfig.dev.json
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week2\Programmeren2Week2\Programmeren2Week2\bin\Debug\netcoreapp3.0\Programmeren2Week2.dll
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week2\Programmeren2Week2\Programmeren2Week2\bin\Debug\netcoreapp3.0\Programmeren2Week2.pdb
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week2\Programmeren2Week2\Programmeren2Week2\obj\Debug\netcoreapp3.0\Programmeren2Week2.csprojAssemblyReference.cache
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week2\Programmeren2Week2\Programmeren2Week2\obj\Debug\netcoreapp3.0\Programmeren2Week2.AssemblyInfoInputs.cache
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week2\Programmeren2Week2\Programmeren2Week2\obj\Debug\netcoreapp3.0\Programmeren2Week2.AssemblyInfo.cs
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week2\Programmeren2Week2\Programmeren2Week2\obj\Debug\netcoreapp3.0\Programmeren2Week2.dll
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week2\Programmeren2Week2\Programmeren2Week2\obj\Debug\netcoreapp3.0\Programmeren2Week2.pdb

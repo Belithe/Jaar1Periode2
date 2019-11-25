@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\CoolManMcGee\\.nuget\\packages\\": {},
+    "C:\\Users\\Belith\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\inHolland\\Jaar1Periode2\\Programmeren 2\\Programmeren2Week1\\Opdracht2\\Opdracht2.csproj",
+      "projectUniqueName": "E:\\School\\inHolland\\Jaar1Periode2\\Programmeren 2\\Programmeren2Week1\\Opdracht2\\Opdracht2.csproj",
       "projectName": "Opdracht2",
-      "projectPath": "D:\\Documents\\inHolland\\Jaar1Periode2\\Programmeren 2\\Programmeren2Week1\\Opdracht2\\Opdracht2.csproj",
-      "packagesPath": "C:\\Users\\CoolManMcGee\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\inHolland\\Jaar1Periode2\\Programmeren 2\\Programmeren2Week1\\Opdracht2\\obj\\",
+      "projectPath": "E:\\School\\inHolland\\Jaar1Periode2\\Programmeren 2\\Programmeren2Week1\\Opdracht2\\Opdracht2.csproj",
+      "packagesPath": "C:\\Users\\Belith\\.nuget\\packages\\",
+      "outputPath": "E:\\School\\inHolland\\Jaar1Periode2\\Programmeren 2\\Programmeren2Week1\\Opdracht2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\CoolManMcGee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Belith\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
