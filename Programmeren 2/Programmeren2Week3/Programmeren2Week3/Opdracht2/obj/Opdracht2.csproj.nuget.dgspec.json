@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\School\\inHolland\\Jaar1Periode2\\Programmeren 2\\Programmeren2Week3\\Programmeren2Week3\\Opdracht1\\Opdracht1.csproj": {}
+    "E:\\School\\inHolland\\Jaar1Periode2\\Programmeren 2\\Programmeren2Week3\\Programmeren2Week3\\Opdracht2\\Opdracht2.csproj": {}
   },
   "projects": {
-    "E:\\School\\inHolland\\Jaar1Periode2\\Programmeren 2\\Programmeren2Week3\\Programmeren2Week3\\Opdracht1\\Opdracht1.csproj": {
+    "E:\\School\\inHolland\\Jaar1Periode2\\Programmeren 2\\Programmeren2Week3\\Programmeren2Week3\\Opdracht2\\Opdracht2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\School\\inHolland\\Jaar1Periode2\\Programmeren 2\\Programmeren2Week3\\Programmeren2Week3\\Opdracht1\\Opdracht1.csproj",
-        "projectName": "Opdracht1",
-        "projectPath": "E:\\School\\inHolland\\Jaar1Periode2\\Programmeren 2\\Programmeren2Week3\\Programmeren2Week3\\Opdracht1\\Opdracht1.csproj",
+        "projectUniqueName": "E:\\School\\inHolland\\Jaar1Periode2\\Programmeren 2\\Programmeren2Week3\\Programmeren2Week3\\Opdracht2\\Opdracht2.csproj",
+        "projectName": "Opdracht2",
+        "projectPath": "E:\\School\\inHolland\\Jaar1Periode2\\Programmeren 2\\Programmeren2Week3\\Programmeren2Week3\\Opdracht2\\Opdracht2.csproj",
         "packagesPath": "C:\\Users\\Belith\\.nuget\\packages\\",
-        "outputPath": "E:\\School\\inHolland\\Jaar1Periode2\\Programmeren 2\\Programmeren2Week3\\Programmeren2Week3\\Opdracht1\\obj\\",
+        "outputPath": "E:\\School\\inHolland\\Jaar1Periode2\\Programmeren 2\\Programmeren2Week3\\Programmeren2Week3\\Opdracht2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
