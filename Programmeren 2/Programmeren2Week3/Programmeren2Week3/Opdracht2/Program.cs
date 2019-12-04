@@ -36,7 +36,7 @@ namespace Opdracht2
             List<char> ingevoerdeLetters = new List<char>();
             int aantalPogingen = 7;
             
-
+            //main running loop, breakt pas als spel over is
             while (!galgje.IsGeraden() && aantalPogingen > 0)
             {
                 Console.WriteLine("Voer een letter in:");

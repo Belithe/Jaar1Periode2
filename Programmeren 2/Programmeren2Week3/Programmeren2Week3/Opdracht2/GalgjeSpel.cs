@@ -42,12 +42,8 @@ namespace Opdracht2
         }
 
         public bool IsGeraden()
-        {
-            if(savedGeheimWoord == geradenWoord)
-            {
-                return true;
-            }
-            return false;
+        {           
+            return (savedGeheimWoord == geradenWoord);
         }
     }
 }
