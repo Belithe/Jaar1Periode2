@@ -8,7 +8,7 @@ namespace Opdracht2
     {
         public string savedGeheimWoord = "";
         public string geradenWoord;
-
+        
         public void Init(string geheimWoord)
         {
             savedGeheimWoord = geheimWoord;
@@ -19,7 +19,7 @@ namespace Opdracht2
             }
         }
 
-
+        //check of geraden letter klopt, zo wel pas woord van geraden letters aan
         public bool RaadLetter(char letter)
         {
             if (savedGeheimWoord.Contains(letter))

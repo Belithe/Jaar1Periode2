@@ -3,19 +3,10 @@ using System.Collections.Generic;
 
 namespace Opdracht1
 {
-//ak in de Start-methode een lijst met beoordelingen:
-//List<Vak> rapport;
-// Vul deze lijst met 3 vakken.Maak hiervoor methode List<Vak> LeesRapport(int aantalVakken).
-// Toon het rapport op het scherm. Maak hiervoor methode void ToonRapport(List<Vak> rapport).
-
-
     class Program
     {
         static void Main(string[] args)
         {
-
-            
-
             Program program = new Program();
             program.Start();
         }
@@ -28,13 +19,13 @@ namespace Opdracht1
             rapport = LeesRapport(3);
             ToonRapport(rapport);
         }
-
+        //vraag user voor vakken en stop ze in rapport
         List<Vak> LeesRapport(int aantalVakken)
         {
             List<Vak> vakList = new List<Vak>();
             for (int i = 0; i < 3; i++)
             {
-                vakList.Add(LeesVak(String.Format("Voor vak nummer {0} in.", i+1)));
+                vakList.Add(LeesVak(String.Format("Voer vak nummer {0} in.", i+1)));
             }
 
             return vakList;
@@ -50,21 +41,19 @@ namespace Opdracht1
             foreach (Vak vak in rapport)
             {
                 ToonVak(vak);
-            }
-            foreach(Vak vak in rapport)
-            {
-                if(!vak.IsBehaald())
+
+                if (!vak.IsBehaald())
                 {
-                    cumLaude = false;
                     geslaagd = false;
                     herkansingen++;
                 }
-                if (!vak.IsCumLaude()) 
+
+                if (!vak.IsCumLaude())
                 {
                     cumLaude = false;
                 }
-               
             }
+
             //Print resultaten
             if(geslaagd == true)
             {
@@ -80,7 +69,7 @@ namespace Opdracht1
             }
             
         }
-
+        
         PraktijkBeoordeling LeesPraktijkBeoordeling(string vraag)
         {
             Console.WriteLine(vraag);
@@ -91,6 +80,7 @@ namespace Opdracht1
         {
             Console.WriteLine(praktijkBeoordeling.ToString());
         }
+        //vraag voor input vak 
         Vak LeesVak(string vraag)
         {
             Vak vak = new Vak();

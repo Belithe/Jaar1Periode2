@@ -57,7 +57,7 @@ namespace Opdracht2
             }
             return false;
         }
-
+        //print alle al geraden letters
         void ToonLetters(List<char> letters)
         {
             foreach(char letter in letters)
@@ -65,7 +65,7 @@ namespace Opdracht2
                 Console.Write(letter + " ");
             }
         }
-
+        //Vraag input letter op, als al geraden blijf loopen
         char LeesLetter(List<char> verbodenLetters)
         {
             char letter = char.Parse(Console.ReadLine());
@@ -84,7 +84,7 @@ namespace Opdracht2
             
             Console.WriteLine(String.Join(" ", woord));
         }
-
+        //vul lijst met woorden
         List<string> WoordenLijst()
         {
             List<string> WoordenLijst = new List<string>
@@ -116,7 +116,7 @@ namespace Opdracht2
 
             return WoordenLijst;
         }
-
+        //kies een random woord uit lijst van 20
         string SelecteerWoord(List<string> woorden)
         {
             Random random = new Random();
