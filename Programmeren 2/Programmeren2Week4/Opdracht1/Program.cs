@@ -12,7 +12,20 @@ namespace Opdracht1
 
         void Start()
         {
-            ToonPersoon(LeesPersoon());
+            Console.WriteLine("Wat is uw naam?:");
+            string naam  = Console.ReadLine();
+
+
+            try(LeesPersoon((String.Format("{0}.txt", naam))) 
+
+
+                Console.WriteLine("Hallo bekende gebruiker.");
+                ToonPersoon(persoonToCheck);
+
+            } else
+            {
+
+            }
         }
 
         void ToonPersoon(Persoon p)
@@ -36,6 +49,27 @@ namespace Opdracht1
 
         void SchrijfPersoon(Persoon p, string bestandsNaam)
         {
+            using (System.IO.StreamWriter fileToWrite =
+            new System.IO.StreamWriter(bestandsNaam, true))
+            {
+                fileToWrite.WriteLine(p.naam);
+                fileToWrite.WriteLine(p.leeftijd);
+                fileToWrite.WriteLine(p.woonplaats);
+            }
+
+        }
+
+        Persoon LeesPersoon(string bestandsNaam)
+        {
+            Persoon persoonToRead = new Persoon();
+            
+            string[] infoToRead = System.IO.File.ReadAllLines(bestandsNaam);
+
+            persoonToRead.naam = infoToRead[0];
+            persoonToRead.leeftijd = int.Parse(infoToRead[1]);
+            persoonToRead.woonplaats = infoToRead[2];
+
+            return persoonToRead;
 
         }
     }
