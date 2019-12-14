@@ -1,0 +1,7 @@
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\CandyCrushLogic\bin\Debug\netstandard2.0\CandyCrushLogic.deps.json
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\CandyCrushLogic\bin\Debug\netstandard2.0\CandyCrushLogic.dll
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\CandyCrushLogic\bin\Debug\netstandard2.0\CandyCrushLogic.pdb
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\CandyCrushLogic\obj\Debug\netstandard2.0\CandyCrushLogic.AssemblyInfoInputs.cache
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\CandyCrushLogic\obj\Debug\netstandard2.0\CandyCrushLogic.AssemblyInfo.cs
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\CandyCrushLogic\obj\Debug\netstandard2.0\CandyCrushLogic.dll
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\CandyCrushLogic\obj\Debug\netstandard2.0\CandyCrushLogic.pdb

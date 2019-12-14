@@ -1,0 +1,11 @@
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\Vertaling\bin\Debug\netcoreapp3.0\Vertaling.exe
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\Vertaling\bin\Debug\netcoreapp3.0\Vertaling.deps.json
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\Vertaling\bin\Debug\netcoreapp3.0\Vertaling.runtimeconfig.json
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\Vertaling\bin\Debug\netcoreapp3.0\Vertaling.runtimeconfig.dev.json
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\Vertaling\bin\Debug\netcoreapp3.0\Vertaling.dll
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\Vertaling\bin\Debug\netcoreapp3.0\Vertaling.pdb
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\Vertaling\obj\Debug\netcoreapp3.0\Vertaling.csprojAssemblyReference.cache
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\Vertaling\obj\Debug\netcoreapp3.0\Vertaling.AssemblyInfoInputs.cache
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\Vertaling\obj\Debug\netcoreapp3.0\Vertaling.AssemblyInfo.cs
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\Vertaling\obj\Debug\netcoreapp3.0\Vertaling.dll
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\Vertaling\obj\Debug\netcoreapp3.0\Vertaling.pdb

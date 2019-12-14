@@ -1,0 +1,8 @@
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\MyTools\bin\Debug\netstandard2.0\MyTools.deps.json
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\MyTools\bin\Debug\netstandard2.0\MyTools.dll
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\MyTools\bin\Debug\netstandard2.0\MyTools.pdb
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\MyTools\obj\Debug\netstandard2.0\MyTools.csprojAssemblyReference.cache
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\MyTools\obj\Debug\netstandard2.0\MyTools.AssemblyInfoInputs.cache
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\MyTools\obj\Debug\netstandard2.0\MyTools.AssemblyInfo.cs
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\MyTools\obj\Debug\netstandard2.0\MyTools.dll
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\MyTools\obj\Debug\netstandard2.0\MyTools.pdb

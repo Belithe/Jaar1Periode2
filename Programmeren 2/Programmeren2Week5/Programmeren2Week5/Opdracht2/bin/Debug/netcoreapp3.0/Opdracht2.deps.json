@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Opdracht2/1.0.0": {
+        "dependencies": {
+          "CandyCrushLogic": "1.0.0"
+        },
+        "runtime": {
+          "Opdracht2.dll": {}
+        }
+      },
+      "CandyCrushLogic/1.0.0": {
+        "runtime": {
+          "CandyCrushLogic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Opdracht2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CandyCrushLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

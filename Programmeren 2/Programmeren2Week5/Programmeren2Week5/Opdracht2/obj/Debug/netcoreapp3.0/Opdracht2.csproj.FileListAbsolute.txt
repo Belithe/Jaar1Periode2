@@ -1,0 +1,14 @@
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\Opdracht2\bin\Debug\netcoreapp3.0\Opdracht2.exe
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\Opdracht2\bin\Debug\netcoreapp3.0\Opdracht2.deps.json
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\Opdracht2\bin\Debug\netcoreapp3.0\Opdracht2.runtimeconfig.json
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\Opdracht2\bin\Debug\netcoreapp3.0\Opdracht2.runtimeconfig.dev.json
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\Opdracht2\bin\Debug\netcoreapp3.0\Opdracht2.dll
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\Opdracht2\bin\Debug\netcoreapp3.0\Opdracht2.pdb
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\Opdracht2\bin\Debug\netcoreapp3.0\CandyCrushLogic.dll
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\Opdracht2\bin\Debug\netcoreapp3.0\CandyCrushLogic.pdb
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\Opdracht2\obj\Debug\netcoreapp3.0\Opdracht2.csprojAssemblyReference.cache
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\Opdracht2\obj\Debug\netcoreapp3.0\Opdracht2.AssemblyInfoInputs.cache
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\Opdracht2\obj\Debug\netcoreapp3.0\Opdracht2.AssemblyInfo.cs
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\Opdracht2\obj\Debug\netcoreapp3.0\Opdracht2.csproj.CopyComplete
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\Opdracht2\obj\Debug\netcoreapp3.0\Opdracht2.dll
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\Opdracht2\obj\Debug\netcoreapp3.0\Opdracht2.pdb
