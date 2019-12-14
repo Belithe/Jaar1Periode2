@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace Opdracht1
 {
@@ -13,18 +14,19 @@ namespace Opdracht1
         void Start()
         {
             Console.WriteLine("Wat is uw naam?:");
-            string naam  = Console.ReadLine();
+            string inputFileNaam  = String.Format("{0}.txt", Console.ReadLine());
+            
 
-
-            try(LeesPersoon((String.Format("{0}.txt", naam))) 
+            if (File.Exists(inputFileNaam)) {  
 
 
                 Console.WriteLine("Hallo bekende gebruiker.");
-                ToonPersoon(persoonToCheck);
+                ToonPersoon(LeesPersoon(inputFileNaam));
 
             } else
             {
-
+                Console.WriteLine("Welkom nieuwe gebruiker.");
+                SchrijfPersoon(LeesPersoon(), inputFileNaam);
             }
         }
 
@@ -49,21 +51,20 @@ namespace Opdracht1
 
         void SchrijfPersoon(Persoon p, string bestandsNaam)
         {
-            using (System.IO.StreamWriter fileToWrite =
-            new System.IO.StreamWriter(bestandsNaam, true))
-            {
-                fileToWrite.WriteLine(p.naam);
-                fileToWrite.WriteLine(p.leeftijd);
-                fileToWrite.WriteLine(p.woonplaats);
-            }
+            StreamWriter fileToWrite = new StreamWriter(bestandsNaam, true);
+            
+            fileToWrite.WriteLine(p.naam);
+            fileToWrite.WriteLine(p.leeftijd);
+            fileToWrite.WriteLine(p.woonplaats);
 
+            fileToWrite.Close();
         }
 
         Persoon LeesPersoon(string bestandsNaam)
         {
             Persoon persoonToRead = new Persoon();
             
-            string[] infoToRead = System.IO.File.ReadAllLines(bestandsNaam);
+            string[] infoToRead = File.ReadAllLines(bestandsNaam);
 
             persoonToRead.naam = infoToRead[0];
             persoonToRead.leeftijd = int.Parse(infoToRead[1]);

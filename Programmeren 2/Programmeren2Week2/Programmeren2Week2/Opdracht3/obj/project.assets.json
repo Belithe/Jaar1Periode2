@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\School\\inHolland\\Jaar1Periode2\\Programmeren 2\\Programmeren2Week2\\Programmeren2Week2\\Opdracht3\\Opdracht3.csproj",
-      "projectName": "Opdracht3",
-      "projectPath": "E:\\School\\inHolland\\Jaar1Periode2\\Programmeren 2\\Programmeren2Week2\\Programmeren2Week2\\Opdracht3\\Opdracht3.csproj",
+      "projectUniqueName": "E:\\School\\inHolland\\Jaar1Periode2\\Programmeren 2\\Programmeren2Week2\\Programmeren2Week2\\Opdracht3\\Opdracht3(week2).csproj",
+      "projectName": "Opdracht3(week2)",
+      "projectPath": "E:\\School\\inHolland\\Jaar1Periode2\\Programmeren 2\\Programmeren2Week2\\Programmeren2Week2\\Opdracht3\\Opdracht3(week2).csproj",
       "packagesPath": "C:\\Users\\Belith\\.nuget\\packages\\",
       "outputPath": "E:\\School\\inHolland\\Jaar1Periode2\\Programmeren 2\\Programmeren2Week2\\Programmeren2Week2\\Opdracht3\\obj\\",
       "projectStyle": "PackageReference",

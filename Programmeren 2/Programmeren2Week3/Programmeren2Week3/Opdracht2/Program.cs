@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 
 namespace Opdracht2
 {
@@ -87,32 +88,15 @@ namespace Opdracht2
         //vul lijst met woorden
         List<string> WoordenLijst()
         {
-            List<string> WoordenLijst = new List<string>
+
+            string[] fileList = File.ReadAllLines("..\\..\\..\\woorden.txt");
+
+            List<string> WoordenLijst = new List<string>();
+            
+            for (int i = 0; i < fileList.Length; i++)
             {
-                "foo",
-                "boo",
-                "goo",
-                "loo",
-                "moo",
-
-                "word",
-                "sentence",
-                "letter",
-                "line",
-                "paragraph",
-
-                "tomato",
-                "lettuce",
-                "bacon",
-                "chili",
-                "burg",
-
-                "fun",
-                "things",
-                "are",
-                "not",
-                "real"
-            };
+                WoordenLijst.Add(fileList[i]);                
+            }
 
             return WoordenLijst;
         }
@@ -120,7 +104,12 @@ namespace Opdracht2
         string SelecteerWoord(List<string> woorden)
         {
             Random random = new Random();
-            return woorden[random.Next(0, 20)];
+            string chosenWord = woorden[random.Next(0, woorden.Count + 1)];
+            if (chosenWord.Length < 3)
+            {
+                return SelecteerWoord(woorden);
+            }
+            return chosenWord;
         }
     }
 }
