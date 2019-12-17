@@ -1,0 +1,14 @@
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\Opdracht4\bin\Debug\netcoreapp3.0\Opdracht4.exe
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\Opdracht4\bin\Debug\netcoreapp3.0\Opdracht4.deps.json
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\Opdracht4\bin\Debug\netcoreapp3.0\Opdracht4.runtimeconfig.json
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\Opdracht4\bin\Debug\netcoreapp3.0\Opdracht4.runtimeconfig.dev.json
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\Opdracht4\bin\Debug\netcoreapp3.0\Opdracht4.dll
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\Opdracht4\bin\Debug\netcoreapp3.0\Opdracht4.pdb
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\Opdracht4\bin\Debug\netcoreapp3.0\MyTools.dll
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\Opdracht4\bin\Debug\netcoreapp3.0\MyTools.pdb
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\Opdracht4\obj\Debug\netcoreapp3.0\Opdracht4.csprojAssemblyReference.cache
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\Opdracht4\obj\Debug\netcoreapp3.0\Opdracht4.AssemblyInfoInputs.cache
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\Opdracht4\obj\Debug\netcoreapp3.0\Opdracht4.AssemblyInfo.cs
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\Opdracht4\obj\Debug\netcoreapp3.0\Opdracht4.csproj.CopyComplete
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\Opdracht4\obj\Debug\netcoreapp3.0\Opdracht4.dll
+E:\School\inHolland\Jaar1Periode2\Programmeren 2\Programmeren2Week5\Programmeren2Week5\Opdracht4\obj\Debug\netcoreapp3.0\Opdracht4.pdb
