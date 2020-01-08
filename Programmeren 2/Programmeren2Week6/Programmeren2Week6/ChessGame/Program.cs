@@ -16,6 +16,19 @@ namespace ChessGame
 
             InitChessboard(chessboard);
             DisplayChessboard(chessboard);
+            PlayChess(chessboard);
+        }
+
+        void PlayChess(ChessPiece[,] chessboard)
+        {
+            while (true)
+            {
+                Position froPos = ReadPosition("Please input a position to move from:");
+                Position toPos = ReadPosition("Please input a position to move to:");
+                CheckMove(chessboard, froPos, toPos);
+                DoMove(chessboard, froPos, toPos);
+                DisplayChessboard(chessboard);
+            }
         }
 
         void InitChessboard(ChessPiece[,] chessboard)
@@ -147,6 +160,109 @@ namespace ChessGame
                         break;
                 }
             }
+        }
+
+        Position ReadPosition(string question)
+        {
+            Console.WriteLine(question);
+
+            string userPos = Console.ReadLine();
+
+            Position position = new Position();
+            try
+            {
+                position.column = userPos[0] - 64;
+                position.row = int.Parse(userPos[1].ToString());
+
+                if (position.column < 1 || position.column > 8)
+                {
+                    Console.WriteLine("Incorrect column letter.");
+                    return ReadPosition(question);
+                }
+                if (position.row > 8 || position.row < 1)
+                {
+                    Console.WriteLine("Incorrect row number.");
+                    return ReadPosition(question);
+
+                }
+            } catch (Exception ex)
+            {
+                Console.WriteLine(ex);
+                return ReadPosition(question);
+            }
+            return position;
+        }
+
+        void DoMove(ChessPiece[,] chessboard, Position from, Position to)
+        {
+            chessboard[to.row, to.column] = chessboard[from.row, from.column];
+            chessboard[from.row, from.column] = null;
+
+        }
+        void CheckMove(ChessPiece[,] chessboard, Position from, Position to)
+        {
+            if (chessboard[to.row, to.column] != null)
+            {
+                Console.WriteLine("Position to go to is full.");
+            }
+            if (chessboard[from.row, from.column] == null)
+            {
+                Console.WriteLine("Position to go from is empty.");
+            }
+            if (!ValidMove(chessboard[from.row, from.column], from, to))
+            {
+                Console.WriteLine("Invalid move.");
+            }
+        }
+
+        bool ValidMove(ChessPiece chessPiece, Position from, Position to)
+        {
+            bool isValid = false;
+
+            int ver = Math.Abs(from.row - to.row);
+            int hor = Math.Abs(from.column - to.column);
+
+            switch(chessPiece.type) {
+
+                case ChessPieceType.Pawn:
+                    if(hor == 0 && ver == 1)
+                    {
+                        isValid = true;
+                    }
+                    break;
+                case ChessPieceType.Bishop:
+                    if(hor == ver)
+                    {
+                        isValid = true;
+                    }
+                    break;
+                case ChessPieceType.Knight:
+                    if(hor * ver == 2)
+                    {
+                        isValid = true;
+                    }
+                    break;
+                case ChessPieceType.Rook:
+                    if(hor * ver == 0)
+                    {
+                        isValid = true;
+                    }
+                    break;
+                case ChessPieceType.Queen:
+                    if(hor * ver == 0 || hor == ver)
+                    {
+                        isValid = true;
+                    }
+                    break;
+                case ChessPieceType.King:
+                    if(hor == 1 || ver == 1)
+                    {
+                        isValid = true;
+                    }
+                    break;
+            }
+
+            return isValid;
         }
     }
 }
